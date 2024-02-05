@@ -1,0 +1,1 @@
+# teste-automation-lekto
