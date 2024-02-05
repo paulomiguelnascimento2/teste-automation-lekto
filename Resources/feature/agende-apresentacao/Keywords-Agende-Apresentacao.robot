@@ -21,13 +21,6 @@ Acessar Pagina Principal e Pagina de Agendamento
         Click Element                     css=.btn.btn--border.theme-btn--primary-inverse.sqs-button-element--primary
 
 
-      
- 
-#Acesse a pagina de agende uma apresentação
-
-        #   Wait Until Element Is Visible     css=.btn.btn--border.theme-btn--primary-inverse.sqs-button-element--primary
-         #  Click Element                     css=.btn.btn--border.theme-btn--primary-inverse.sqs-button-element--primary
-
 Informe o nome do profissional
 
     Wait Until Element Is Visible  id=text-yui_3_17_2_1_1593033605278_167399-field
