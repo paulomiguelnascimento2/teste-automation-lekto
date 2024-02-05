@@ -3,7 +3,7 @@
 Resource            ../../Resources/commom/BaseWeb.robot
      
 Test Teardown        Acessar Pagina Principal e Pagina de Agendamento
-Documentation        Automacao da Funcionalidade de Agendamento de Apresentação
+Documentation        Automacao da Funcionalidade de Agendamento de Apresentação da plataforma web lekto
 
 
 ***Test Cases***
