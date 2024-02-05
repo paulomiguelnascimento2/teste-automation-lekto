@@ -1,0 +1,14 @@
+/testsresults
+**/test_result
+**workspace.code-workspace
+.env
+.DS_Store
+**.png
+**.html
+**.xml
+.env
+.pabotsuitenames
+results
+$GITHUB_ENV
+**/debug.robot
+results*
